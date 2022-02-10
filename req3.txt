@@ -1,0 +1,7 @@
+scipy==1.7.2
+spacy==3.1.2
+spacy-legacy==3.0.8
+tika==1.24
+torch==1.10.0
+transformers==4.12.5
+huggingface-hub==0.1.2

@@ -1,0 +1,28 @@
+karate
+TestNG
+NoSQL
+ISTQB foundation
+ISTQB Test Automation
+Continuous Testing
+Spring
+Selenium WebDriver
+hadoop
+REST api
+BDD
+Eclipse
+Continuous Testing 
+Agile
+GIT
+Bamboo
+Cucumber
+Solid
+NoSQL
+docker
+junit
+jenkins
+bamboo
+intelij
+java
+RestAssured
+Scrum
+Safe

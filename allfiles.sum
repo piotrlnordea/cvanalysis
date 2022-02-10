@@ -1,0 +1,583 @@
+c:\resume2\AbhishekNagarkar_Python Test_5_LNT_OTP_pune.docx
+lines in cv 78
+lines reapeated 5
+nbr of tokens 1023
+found dates 4
+88  certificates 
+
+['ad-hoc', 'agile', 'alm', 'aml', 'application', 'autoit', 'automation', 'birth', 'boarding', 'clear', 'data migration', 'data preparation', 'data validation', 'database', 'debugging', 'defect logging', 'design', 'dynamic testing', 'english', 'framework', 'functional specifications', 'functional testing', 'functionality', 'github', 'gui testing', 'hadoop', 'hindi', 'hp', 'idle', 'it', 'iterative', 'jenkins', 'jira', 'keywords', 'languages', 'logging', 'maintenance', 'money', 'operations', 'performing', 'pipeline', 'player', 'preparation', 'pro', 'project', 'putty', 'pycharm', 'python', 'regression testing', 'reporting', 'reporting tool', 'repository', 'resolve', 'robot', 'robot framework', 'scripting', 'selenium', 'selenium webdriver', 'servers', 'showcase', 'smoke', 'smoke testing', 'software development life cycle (sdlc)', 'software testing', 'software testing life cycle (stlc)', 'specifications', 'status', 'store', 'suite', 'swift', 'test automation', 'test cases', 'test data', 'test designing', 'test execution', 'test methodologies', 'test scenarios', 'test scripts', 'testing', 'transmission', 'unit testing', 'validation', 'waterfall', 'web', 'web applications', 'webdriver', 'windows', 'xpath']
+5  experience 
+
+['automation', 'learner', 'software development', 'software testing', 'web applications']
+
+ languages 
+
+{'english'}
+
+ schools 
+
+['no academic institutions']
+
+ degree 
+
+['bachelor', 'master']
+
+ qa skills 
+
+(['hadoop', 'selenium webdriver', 'jenkins', 'agile', 'selenium webdriver', 'jenkins', 'jenkins', 'jenkins', 'jenkins', 'jenkins', 'jenkins'], 906, 907)
+
+ 1 .Question:  Does he have a degree ? 
+Answers:
+bachelor of computer and science from pune university
+· completed bachelor of computer and science
+completed bachelor of computer and science from pune university in 2016
+pune university in 2016.
+educational qualification : · completed bachelor of computer and science from pune university in 2016. · completed master in computer and science from pune university in 2019
+
+ 2 .Question: What did he study ?
+Answers:
+bachelor of computer and science
+computer and science from pune university in 2016. · completed master in computer and science
+pune university
+
+ 3 .Question: When did he finish his education ?
+Answers:
+2016
+2019
+5th june 1996
+in 2016.
+c:\resume2\Anukul_updated_resume.pdf
+lines in cv 121
+lines reapeated 7
+nbr of tokens 1133
+found dates 11
+78  certificates 
+
+['agile', 'application', 'architecture', 'artificial intelligence', 'asp.net', 'assessment', 'automation', 'automation tools', 'aws', 'base', 'business logic', 'case', 'coe', 'components', 'credit', 'css', 'customer', 'database', 'design', 'digital', 'documentation', 'dst', 'fixing', 'flow', 'framework', 'git', 'html', 'intelligence', 'internet', 'it', 'java', 'javascript', 'jira', 'junit', 'learning', 'ltd', 'machine learning', 'management system', 'manual testing', 'microsoft', 'microsoft sql server', 'multilingual', 'one', 'online', 'parcel', 'powershell', 'professional services', 'project', 'public', 'python', 'reporting', 'resume', 'robot', 'robot framework', 'scripting', 'security', 'servers', 'service delivery', 'specifications', 'spring', 'spring framework', 'sql', 'sql server', 'technology', 'technology solutions', 'test cases', 'testing', 'unit testing', 'use case', 'video', 'visit', 'web', 'web technologies', 'window', 'workflow', 'writing', 'xi', 'yaml']
+8  experience 
+
+['automation', 'automation developer', 'delivery', 'developer', 'java developer', 'operating system', 'professional services', 'software development']
+
+ languages 
+
+{'Polish'}
+
+ schools 
+
+['secondary', 'college', 'secondary', 'school']
+
+ degree 
+
+['bachelor']
+
+ qa skills 
+
+(['java', 'java', 'git', 'java', 'java', 'java', 'spring', 'junit', 'java', 'java', 'java', 'spring', 'agile', 'git'], 1104, 1105)
+
+ 1 .Question:  Does he have a degree ? 
+Answers:
+bachelor of technology ( b. tech )
+bengal institute of technology, kolkata
+appeared in 2015 from bengal institute of technology
+education details - • bachelor of technology ( b. tech ) : appeared in 2015
+
+ 2 .Question: What did he study ?
+Answers:
+bachelor of technology
+b. tech )
+bengal institute of technology
+technology ( b. tech ) : appeared in 2015 from bengal institute of technology, kolkata. board / university : wbut marks : 73. 3 • higher secondary certificate
+
+ 3 .Question: When did he finish his education ?
+Answers:
+2015
+2011
+bachelor of technology ( b. tech ) : appeared in 2015 from bengal institute of technology, kolkata
+appeared in 2015 from bengal institute of technology
+in 2015 from bengal institute of technology, kolkata.
+c:\resume2\BarkhaJain[5_6].pdf
+lines in cv 84
+lines reapeated 9
+nbr of tokens 843
+found dates 9
+75  certificates 
+
+['acceptance testing', 'advanced', 'agents', 'alm', 'api', 'api testing', 'application', 'architecture', 'automation', 'business requirements', 'closure', 'command', 'complaint management', 'components', 'computer science', 'configuration management', 'costa rica', 'cucumber', 'customer', 'design', 'e-mail', 'email', 'english', 'fault management', 'framework', 'functional testing', 'gitlab', 'hindi', 'hp', 'insurance', 'insurance policies', 'java', 'jenkins', 'jira', 'languages', 'mail', 'management system', 'matrix', 'maven', 'mentoring', 'mobile', 'preparation', 'process automation', 'project', 'project architecture', 'provisioning', 'python', 'record', 'reporting', 'rest', 'reviews', 'rtm', 'salesforce', 'selenium', 'selenium webdriver', 'soap', 'software testing', 'software testing life cycle (stlc)', 'specifications', 'status', 'summary reports', 'synopsis', 'technology', 'technology solutions', 'test cases', 'test scenarios', 'test scripts', 'testing', 'testng', 'user acceptance testing', 'validation', 'version control', 'web', 'webdriver', 'workflow']
+17  experience 
+
+['application development', 'automation', 'automation tester', 'computer science', 'configuration management', 'developer', 'network monitoring', 'programmer', 'programmer analyst', 'provisioning', 'relationship management', 'rpa developer', 'senior analyst', 'software engineer', 'software testing', 'test analyst', 'tester']
+
+ languages 
+
+{'english'}
+
+ schools 
+
+['no academic institutions']
+
+ degree 
+
+['bachelor', 'bachelor of engineering']
+
+ qa skills 
+
+(['java', 'cucumber', 'bdd', 'testng', 'selenium webdriver', 'java', 'cucumber', 'testng', 'jenkins', 'cucumber'], 747, 748)
+
+ 1 .Question:  Does he have a degree ? 
+Answers:
+bachelor of engineering
+• bachelor of engineering ( 79. 8 % ) in computer science
+educational qualification : • bachelor of engineering ( 79. 8 % ) in computer science from iet - davv, indore in 2015
+engineering ( 79. 8 % ) in computer science from iet - davv, indore
+
+ 2 .Question: What did he study ?
+Answers:
+computer science
+bachelor of engineering
+engineering ( 79. 8 % ) in computer science from iet - davv, indore
+in computer science from iet - davv
+
+ 3 .Question: When did he finish his education ?
+Answers:
+2015
+in 2015.
+indore
+bachelor of engineering ( 79. 8 % ) in computer science from iet - davv
+• bachelor of engineering
+c:\resume2\Maltesh Doddamani.pdf
+lines in cv 108
+lines reapeated 5
+nbr of tokens 1038
+found dates 10
+96  certificates 
+
+['acute', 'apartments', 'api', 'api testing', 'application', 'automation', 'birth', 'bug tracking', 'case', 'cd', 'cerner', 'ci', 'client requirements', 'compatibility testing', 'completion', 'computer science', 'computerized physician order entry (cpoe)', 'database', 'dcp', 'eggplant', 'email', 'english', 'firstnet', 'framework', 'functional specifications', 'functionality', 'grasp', 'healthcare', 'hindi', 'hospitals', 'it', 'jazz', 'jenkins', 'jira', 'kannada', 'languages', 'layout', 'ltd', 'manual test execution', 'manual testing', 'manufacturing', 'matching', 'microsoft', 'microsoft office', 'mobile', 'modular', 'office', 'one', 'operating systems', 'order management', 'output', 'patient registration', 'performance testing', 'performing', 'portals', 'powerchart', 'powerplans', 'preparation', 'prescription', 'pro', 'project', 'pycharm', 'python', 'redmine', 'registration', 'regression testing', 'reporting', 'resume', 'retesting', 'rqm', 'scenario', 'scripting', 'selenium', 'smoke', 'smoke testing', 'software testing', 'specifications', 'sql', 'sql 2008', 'status', 'system testing', 'telugu', 'test automation', 'test cases', 'test data', 'test execution', 'test scenarios', 'testing', 'testing tools', 'tracker', 'use case', 'user requirements', 'web', 'windows', 'windows 2000', 'writing']
+14  experience 
+
+['automation', 'automation engineer', 'computer science', 'order management', 'performer', 'product manager', 'senior test analyst', 'software products', 'software test', 'software test engineer', 'software testing', 'test analyst', 'test automation engineer', 'test engineer']
+
+ languages 
+
+{'telugu', 'english'}
+
+ schools 
+
+['no academic institutions']
+
+ degree 
+
+['b.e']
+
+ qa skills 
+
+(['jenkins', 'bdd'], 750, 751)
+
+ 1 .Question:  Does he have a degree ? 
+Answers:
+completed b. e ( computer science )
+b. e ( computer science
+education details : completed b. e ( computer science ) in 2012
+computer science ) in 2012 from sksvmacet, laxmeshwar ( vtu university )
+
+ 2 .Question: What did he study ?
+Answers:
+b. e ( computer science
+computer science )
+completed b. e
+( computer science ) in 2012
+e ( computer science ) in 2012 from sksvmacet, laxmeshwar ( vtu university )
+
+ 3 .Question: When did he finish his education ?
+Answers:
+2012
+in 2012 from sksvmacet, laxmeshwar ( vtu university ). my profile personal details name maltesh doddamani nationality indian date of birth 27 may, 1990
+completed b. e ( computer science ) in 2012 from sksvmacet, laxmeshwar ( vtu university )
+c:\resume2\Mujaffarhusenresume.pdf
+lines in cv 198
+lines reapeated 20
+nbr of tokens 1565
+found dates 6
+85  certificates 
+
+['agile', 'agile environment', 'alm', 'automation', 'birth', 'blueprint', 'business process', 'business rules', 'case', 'confluence', 'cricket', 'customer', 'database', 'defect logging', 'defect tracking', 'design', 'designation', 'developers', 'dst', 'electronics', 'email', 'english', 'estimates', 'features', 'finance', 'football', 'functional testing', 'functionality', 'go', 'government', 'hindi', 'integration testing', 'interpersonal skills', 'it', 'java', 'jira', 'languages', 'lms', 'logging', 'ltd', 'management software', 'manual testing', 'matrix', 'mumbai', 'octopus', 'offshore', 'oracle', 'peoplesoft', 'product requirements', 'project', 'prospect', 'public', 'regression testing', 'reporting', 'resume', 'risk', 'scenario', 'scrum', 'selenium', 'selenium webdriver', 'smoke', 'smoke testing', 'snapshot', 'software quality assurance', 'sports', 'sql', 'sql server', 'status', 'story', 'strategy', 'teams', 'test cases', 'test coverage', 'test data', 'test execution', 'test matrix', 'test scenarios', 'test strategy', 'testers', 'testing', 'user stories', 'warranty', 'waterfall', 'webdriver', 'writing']
+13  experience 
+
+['automation', 'consultant', 'engineer.', 'finance', 'quality assurance', 'quality assurance engineer', 'senior test engineer', 'software quality assurance', 'software test', 'team lead', 'test engineer', 'tester', 'vendor']
+
+ languages 
+
+{'english'}
+
+ schools 
+
+['shivaji university']
+
+ degree 
+
+['b.tech']
+
+ qa skills 
+
+(['selenium webdriver', 'java', 'agile', 'solid', 'java', 'agile', 'java', 'agile', 'scrum', 'agile'], 1315, 1316)
+
+ 1 .Question:  Does he have a degree ? 
+Answers:
+b. tech
+shivaji university
+electronics & telecommunication from shivaji university, kolhpur
+2011 - 2015 ) in electronics & telecommunication
+( 2011 - 2015 ) in electronics & telecommunication from shivaji university, kolhpur with an aggregate of 71. 6 %
+
+ 2 .Question: What did he study ?
+Answers:
+electronics & telecommunication
+b. tech
+in electronics
+shivaji university, kolhpur
+telecommunication from shivaji university
+
+ 3 .Question: When did he finish his education ?
+Answers:
+2015
+2011 - 2015 )
+b. tech ( 2011 - 2015 ) in electronics & telecommunication from shivaji university, kolhpur
+( 2011
+shivaji university
+c:\resume2\PriyamGupta[5_3].pdf
+lines in cv 187
+lines reapeated 18
+nbr of tokens 1410
+found dates 5
+120  certificates 
+
+['4k', 'access', 'agile', 'amazon', 'api', 'api testing', 'appium', 'application', 'artifacts', 'automation', 'birth', 'bitbucket', 'box', 'cable', 'cd', 'ci', 'closure', 'cmm', 'communications', 'configuration management', 'continuous integration', 'core java', 'cucumber', 'customer', 'customer requirements', 'd', 'dashboard', 'database', 'databases', 'demand', 'demonstration', 'devising', 'e-mail', 'eggplant', 'electronics', 'events', 'failure analysis', 'feature testing', 'fixing', 'framework', 'functional testing', 'git', 'go', 'graphs', 'guides', 'hadoop', 'hardening', 'horizon', 'infosys', 'iptv', 'it', 'java', 'jenkins', 'jira', 'junit', 'kibana', 'languages', 'liberty', 'live', 'log analysis', 'mail', 'maven', 'mobile', 'modems', 'mysql', 'offers', 'operating systems', 'platforms', 'playback', 'prime', 'project', 'provisioning', 'putty', 'pycharm', 'python', 'record', 'reporting', 'rest', 'rest assured', 'robot', 'robot framework', 'ruby', 'scheduling', 'sdl', 'selenium', 'selenium webdriver', 'servers', 'set top box', 'smartphones', 'smoke', 'smoke testing', 'snmp', 'spectrum', 'sql', 'status', 'steps', 'strategy', 'strategy implementation', 'suite', 'tablets', 'technology', 'technology solutions', 'telemetry', 'test automation', 'test automation framework', 'test cases', 'test planning', 'test scenarios', 'test strategy', 'testing', 'testng', 'tftp', 'user behavior', 'user scenarios', 'validation', 'visualization', 'vod', 'web', 'webdriver', 'windows']
+13  experience 
+
+['automation', 'communications', 'configuration management', 'controller', 'driver', 'operating system', 'programmer', 'programmer analyst', 'provisioning', 'senior systems engineer', 'systems engineer', 'technology analyst', 'tester']
+
+ languages 
+
+{'Polish'}
+
+ schools 
+
+['college', 'school', 'school']
+
+ degree 
+
+['b.e']
+
+ qa skills 
+
+(['selenium webdriver', 'bdd', 'cucumber', 'agile', 'jenkins', 'java', 'selenium webdriver', 'testng', 'cucumber', 'junit', 'jenkins', 'jenkins', 'jenkins', 'jenkins', 'jenkins', 'testng', 'jenkins', 'java', 'jenkins', 'git', 'hadoop'], 1332, 1333)
+
+ 1 .Question:  Does he have a degree ? 
+Answers:
+b. e. ( electronics & communication
+passing percentage / sgpa b. e. ( electronics & communication )
+sgpa b. e. ( electronics & communication ) lakshmi narain college of technology, bhopal
+
+ 2 .Question: What did he study ?
+Answers:
+b. e. ( electronics & communication
+( electronics & communication )
+
+ 3 .Question: When did he finish his education ?
+Answers:
+2015
+bhopal 2015 7. 89
+lakshmi narain college of technology, bhopal
+7
+c:\resume2\rDotaswin_kumar@ymailDotcom.doc
+lines in cv 93
+lines reapeated 7
+nbr of tokens 1096
+found dates 8
+114  certificates 
+
+['access', 'advanced', 'agile', 'amazon', 'amazon ebs', 'amazon vpc', 'amazon web services', 'analytical skills', 'analytics', 'api', 'application', 'application services', 'automation', 'award', 'aws', 'birth', 'blocking', 'bugzilla', 'business requirements', 'ci', 'cli', 'cloud', 'commerce', 'configuration management', 'continuous delivery', 'continuous integration', 'credit', 'database', 'declarations', 'defect tracking', 'developers', 'devops', 'docker', 'e-commerce', 'ec2', 'eclipse', 'electronics', 'email', 'english', 'focus', 'framework', 'functionality', 'gateway', 'git', 'github', 'groups', 'harness', 'hub', 'internet', 'ip', 'it', 'java', 'jenkins', 'jenkins ci', 'jira', 'kubernetes', 'languages', 'less', 'linux', 'loan', 'loans', 'logging', 'ltd', 'maintenance', 'manual testing', 'maven', 'merging', 'metrics', 'mobile', 'mysql', 'office', 'one', 'oracle', 'oracle vm', 'organization', 'overdrafts', 'packaging', 'passport', 'peering', 'processing', 'project', 'pycharm', 'python', 'r', 'reporting', 'robot', 'robot framework', 'running', 's3', 'scripting', 'scripting languages', 'security', 'selenium', 'selenium webdriver', 'software testing', 'sql', 'system requirements', 'tamil', 'technology', 'test cases', 'test execution', 'test harness', 'test scripts', 'testing', 'unit testing', 'version control', 'versioning', 'vm', 'web', 'web services', 'webdriver', 'windows', 'writing', 'x']
+13  experience 
+
+['amazon web services', 'analytics', 'automation', 'build and release', 'configuration management', 'delivery', 'devops', 'devops/build and release', 'software test', 'software test engineer', 'software testing', 'test engineer', 'testing engineer']
+
+ languages 
+
+{'english'}
+
+ schools 
+
+['engineering college', 'college', 'anna university', 'school', 'school']
+
+ degree 
+
+['bachelor', 'bachelor of engineering']
+
+ qa skills 
+
+(['jenkins', 'git', 'jenkins', 'docker', 'selenium webdriver', 'docker', 'git', 'git', 'java', 'jenkins', 'eclipse', 'git', 'jenkins', 'jenkins', 'jenkins', 'agile', 'jenkins'], 951, 952)
+
+ 1 .Question:  Does he have a degree ? 
+Answers:
+bachelor of engineering
+· bachelor of engineering ( electronics and communication engineering ) from valliammai engineering college
+education details · bachelor of engineering ( electronics and communication engineering ) from valliammai engineering college ( affiliated to anna university ), chennai ( 2012 )
+
+ 2 .Question: What did he study ?
+Answers:
+bachelor of engineering ( electronics and communication engineering
+electronics and communication engineering )
+( electronics and communication engineering ) from valliammai engineering college
+engineering ( electronics and communication engineering ) from valliammai engineering college ( affiliated to anna university ), chennai ( 2012 )
+
+ 3 .Question: When did he finish his education ?
+Answers:
+2012
+( 2012 ). · class xii from velammal matric hr sec school, chennai ( 2008 ) · class x from velammal matric hr sec school, chennai ( 2006 ) personal details date of birth 20th may 1991
+chennai
+c:\resume2\Resume_Meghant Ambagde (India).doc
+lines in cv 217
+lines reapeated 52
+nbr of tokens 2010
+found dates 14
+138  certificates 
+
+['.net', 'access', 'advanced', 'agile', 'agile methodologies', 'alm', 'api', 'api testing', 'application', 'approval process', 'asp.net', 'automation', 'basic', 'billing process', 'birth', 'box', 'bug tracking', 'building', 'business logic', 'business requirements', 'campaigns', 'case', 'chemistry', 'client/server', 'computing', 'crm', 'customer', 'czech', 'dart', 'dart sales manager', 'database', 'database testing', 'deals', 'defect life cycle', 'defect tracking', 'design', 'developers', 'devops', 'dsm', 'e-mail', 'electronics', 'energy', 'english', 'entertainment', 'exploratory testing', 'finance', 'foundation', 'foundation level', 'functional testing', 'functionality', 'healthcare', 'hindi', 'hobbies', 'hp', 'instructions', 'insurance', 'internet', 'interpersonal skills', 'istqb', 'itil', 'java', 'jira', 'jmeter', 'jquery', 'learning', 'load', 'loans', 'logics', 'mail', 'management system', 'matrix', 'microsoft', 'mobile', 'non-functional testing', 'nordic countries', 'office', 'oracle', 'organization', 'ownership', 'passport', 'payments', 'performance testing', 'performing', 'player', 'pressure', 'principles', 'private banking', 'productivity', 'project', 'project managers', 'project planning', 'proposal management', 'public', 'regression testing', 'reporting', 'reporting tool', 'resume', 'road', 'rtm', 'running', 'scenario', 'scheduling', 'scrum', 'selenium', 'selenium webdriver', 'servers', 'sketching', 'smoke', 'smoke testing', 'soap', 'software testing', 'space', 'sql', 'sql server', 'standby', 'status', 'suite', 'technology', 'test automation', 'test cases', 'test environment setup', 'test management', 'test scenarios', 'testing', 'tone', 'traceability', 'traceability matrix', 'user stories', 'utilities', 'v4', 'web', 'webdriver', 'windows', 'windows 10', 'windows xp', 'wpf', 'writing', 'xp']
+23  experience 
+
+['automation', 'billing', 'devops', 'engineer.', 'finance', 'lead test engineer', 'learner', 'operating system', 'product development', 'publisher', 'qa engineer', 'sales and marketing', 'sales manager', 'senior test engineer', 'software development', 'software professional', 'software testing', 'team member', 'test analyst', 'test engineer', 'test manager', 'test team', 'tester']
+
+ languages 
+
+{'english', 'czech'}
+
+ schools 
+
+['university of pune', 'nagpur university', 'secondary', 'school', 'secondary', 'school', 'school']
+
+ degree 
+
+['bachelor', 'bachelor of engineering']
+
+ qa skills 
+
+(['agile', 'agile', 'scrum', 'agile', 'istqb foundation', 'scrum', 'scrum', 'java', 'java', 'agile', 'agile', 'selenium webdriver', 'java', 'agile'], 1834, 1835)
+
+ 1 .Question:  Does he have a degree ? 
+Answers:
+university of pune
+pune, india
+cdac ( centre for development of advance computing ) university of pune, india [SEP]
+
+ 2 .Question: What did he study ?
+Answers:
+centre for development of advance computing
+educational qualification qualification board / university year percentage cdac ( centre for development of advance computing ) university of pune
+cdac ( centre for development of advance computing )
+qualification qualification board / university year percentage cdac ( centre for development of advance computing ) university of pune, india
+
+ 3 .Question: When did he finish his education ?
+Answers:
+university of pune
+pune, india
+educational qualification qualification board / university year percentage cdac ( centre for development of advance computing ) university of pune, india [SEP]
+c:\resume2\RitaUpadhyay5_6.docx
+lines in cv 105
+lines reapeated 19
+nbr of tokens 1232
+found dates 8
+88  certificates 
+
+['access', 'agile', 'api', 'api testing', 'application', 'automation', 'automation tools', 'black box testing', 'box', 'bug tracking', 'bugzilla', 'capital', 'capital markets', 'client/server', 'connections', 'cyber', 'data validation', 'database', 'database testing', 'databases', 'defect tracking', 'design', 'document management', 'document review', 'e-mail', 'functional specifications', 'golf', 'government', 'government services', 'i18n', 'indexing', 'intermediate', 'interpersonal skills', 'it', 'java', 'jira', 'jquery', 'languages', 'learning', 'loan', 'loan origination', 'logging', 'ltd', 'mail', 'management system', 'manual testing', 'mobile', 'mobile phone', 'mysql', 'oracle', 'performing', 'player', 'project', 'proof', 'python', 'redmine', 'regression testing', 'relational databases', 'reporting', 'robot', 'rqm', 'rtm', 'saas', 'secondary education', 'selenium', 'smoke', 'software industry', 'software testing', 'specifications', 'sql', 'sql server', 'status', 'steps', 'suite', 'technology', 'test cases', 'test management', 'test management tool', 'test scenarios', 'test scripts', 'testing', 'validation', 'waterfall', 'web', 'welfare', 'windows', 'workflow', 'writing']
+10  experience 
+
+['automation', 'delivery', 'government services', 'senior test engineer', 'software development', 'software test', 'software test engineer', 'software testing', 'test engineer', 'working at']
+
+ languages 
+
+{'Polish'}
+
+ schools 
+
+['secondary']
+
+ degree 
+
+['no degree']
+
+ qa skills 
+
+(['agile', 'java', 'java', 'java', 'java', 'java', 'java'], 898, 899)
+
+ 1 .Question:  Does he have a degree ? 
+Answers:
+b. tech rgpv bhopal 73. 2
+degree / certificate university / institute description ( % of marks ) b. tech rgpv bhopal
+education details : degree / certificate university / institute description ( % of marks ) b. tech rgpv
+
+ 2 .Question: What did he study ?
+Answers:
+b. tech
+rgpv bhopal
+degree / certificate university / institute description ( % of marks ) b. tech rgpv bhopal 73. 2
+tech rgpv
+
+ 3 .Question: When did he finish his education ?
+Answers:
+b. tech rgpv bhopal 73. 2
+rgpv bhopal 73. 2 [SEP]
+c:\resume2\Sagar Patra_Resume.pdf
+lines in cv 130
+lines reapeated 4
+nbr of tokens 1394
+found dates 5
+117  certificates 
+
+['accounts payable', 'acute', 'agile', 'analytics', 'apac', 'api', 'api testing', 'app', 'application', 'architecture', 'automation', 'birth', 'black box testing', 'box', 'case', 'closure', 'collage', 'computer science', 'conducting', 'confidentiality', 'continuum', 'credit', 'database', 'database testing', 'databases', 'deliverables', 'demand', 'des', 'design', 'design documents', 'document processing', 'documentation', 'e-mail', 'edge', 'engagements', 'english', 'enterprise', 'export', 'flow', 'functional testing', 'functionality', 'harness', 'health', 'healthcare', 'healthcare management', 'hindi', 'hp', 'html', 'idp', 'integration testing', 'interpersonal skills', 'investment', 'investment banking', 'io', 'it', 'java', 'javascript', 'jira', 'languages', 'learning', 'logging', 'mail', 'maintenance', 'manual testing', 'mentoring', 'microsoft', 'money', 'mumbai', 'oracle', 'orc', 'order management', 'output', 'payments', 'pos', 'preparation', 'processing', 'project', 'putty', 'rca', 'records', 'regression testing', 'reporting', 'retail', 'retesting', 'rtm', 'sahi', 'sanity testing', 'scripting', 'scripting languages', 'scrum', 'selenium', 'sensitivity', 'smoke', 'sql', 'square', 'status', 'strategy', 'suppliers', 'system integration testing', 'system testing', 'technology', 'telecom', 'test cases', 'test data', 'test management', 'test management tool', 'test planning', 'test scenarios', 'test strategy', 'testing', 'unix', 'user stories', 'utilities', 'vendor management', 'vendors', 'web', 'writing']
+19  experience 
+
+['accounts payable', 'analytics', 'automation', 'business analyst', 'computer science', 'delivery', 'design and development', 'investment banking', 'order management', 'software engineer', 'system integration', 'system test', 'technical lead', 'technical lead.', 'telecom', 'test engineer', 'tester', 'vendor', 'vendor management']
+
+ languages 
+
+{'english'}
+
+ schools 
+
+['primary']
+
+ degree 
+
+['bachelor']
+
+ qa skills 
+
+(['java', 'java', 'java', 'agile', 'scrum'], 1350, 1351)
+
+ 1 .Question:  Does he have a degree ? 
+Answers:
+bachelor of computer science
+ravenshaw university
+educational qualification bachelor of computer science, ravenshaw university, odisha in 2015
+computer science, ravenshaw university, odisha in 2015.
+
+ 2 .Question: What did he study ?
+Answers:
+bachelor of computer science
+computer science, ravenshaw university
+ravenshaw university, odisha
+educational qualification bachelor of computer science,
+odisha in 2015.
+
+ 3 .Question: When did he finish his education ?
+Answers:
+2015
+in 2015.
+odisha in 2015. trainings selenium java, ui path. personal details date of birth : 06th september, 1994
+bachelor of computer science, ravenshaw university
+c:\resume2\sangramd45@gmailDotcom.pdf
+lines in cv 87
+lines reapeated 8
+nbr of tokens 932
+found dates 3
+102  certificates 
+
+['access', 'access control', 'addition', 'agents', 'application', 'architecture', 'automation', 'availability', 'birth', 'bmc patrol', 'business logic', 'capacity planning', 'cassandra', 'cloud', 'codes', 'd', 'dance', 'database', 'devops', 'e-mail', 'english', 'enterprise', 'events', 'exist', 'fetch', 'firebase', 'fitness', 'framework', 'gateway', 'git', 'google', 'grasp', 'helix', 'hindi', 'hobbies', 'hp', 'hp-ux', 'html', 'infrastructure', 'interpersonal skills', 'it', 'java', 'jenkins', 'jira', 'kafka', 'kms', 'kubernetes', 'languages', 'linux', 'mail', 'maintenance', 'microservices', 'microsoft', 'microsoft word', 'mobile', 'modeling', 'mysql', 'open source', 'operating systems', 'patrol', 'pay', 'performance management', 'persistence', 'player', 'plus', 'project', 'python', 'qr', 'qr code', 'registration', 'rhel', 'robot', 'robot framework', 'root', 'scanning', 'scenario', 'servers', 'service availability', 'singing', 'software testing', 'solaris', 'sql', 'status', 'storage', 'store', 'suite', 'technology', 'test cases', 'test scenarios', 'test scripts', 'testing', 'tracker', 'travel', 'trials', 'troubleshooting', 'unix', 'ux', 'windows', 'word', 'work management', 'writing', 'x86']
+5  experience 
+
+['agent', 'automation', 'devops', 'performance management', 'software testing']
+
+ languages 
+
+{'english'}
+
+ schools 
+
+['college', 'amravati university']
+
+ degree 
+
+['bachelor', 'bachelor of engineering', 'ssc']
+
+ qa skills 
+
+(['java', 'jenkins', 'git', 'jenkins', 'jenkins', 'jenkins', 'java', 'java'], 796, 797)
+
+ 1 .Question:  Does he have a degree ? 
+Answers:
+bachelor of engineering
+percentage bachelor of engineering amravati university 74 %
+amravati university 74 % hsc
+engineering amravati university 74 % hsc ( 12th ) maharashtra state board 58. 33 % ssc ( 10th ) maharashtra state board 80 %
+
+ 2 .Question: What did he study ?
+Answers:
+bachelor of engineering
+engineering amravati university
+amravati university 74 %
+percentage bachelor
+
+ 3 .Question: When did he finish his education ?
+Answers:
+bachelor of engineering amravati university 74 %
+74 % hsc ( 12th ) maharashtra state board 58. 33 % ssc ( 10th ) maharashtra state board 80 %
+c:\resume2\VishalShelar_PythonRobot_LTI_7yrs_mumbaiOTP.DOCX
+lines in cv 78
+lines reapeated 1
+nbr of tokens 907
+found dates 10
+61  certificates 
+
+['agile', 'alm', 'application', 'application lifecycle management', 'automation', 'award', 'bug tracking', 'c', 'clear', 'computer engineering', 'computer science', 'cricket', 'drawing', 'eco', 'eco-friendly', 'empower', 'football', 'framework', 'functional testing', 'functionality', 'hp', 'ibm', 'ibm rational', 'infosys', 'integration testing', 'it', 'iterative', 'languages', 'ltd', 'microsoft', 'mumbai', 'preparation', 'project', 'pycharm', 'python', 'racks', 'regression testing', 'reporting', 'research', 'retesting', 'robot', 'robot framework', 'scenario', 'sharepoint', 'software development life cycle (sdlc)', 'software testing', 'sql', 'suite', 'system testing', 'technology', 'test cases', 'test management', 'test scenarios', 'testing', 'trading', 'visit', 'water', 'wealth', 'wealth management', 'web', 'windows']
+13  experience 
+
+['automation', 'automation tester', 'computer science', 'host', 'manual tester', 'process associate', 'senior process associate', 'software development', 'software test', 'software testing', 'test engineer', 'tester', 'wealth management']
+
+ languages 
+
+{'Polish'}
+
+ schools 
+
+['university of mumbai', 'college']
+
+ degree 
+
+['bachelor', 'bachelor of engineering', 'bachelor', 'bachelor of engineering', 'ssc']
+
+ qa skills 
+
+(['agile'], 149, 150)
+
+ 1 .Question:  Does he have a degree ? 
+Answers:
+bachelor of engineering
+1. bachelor of engineering from university of mumbai
+university of mumbai with 60. 00 %
+engineering from university of mumbai with 60. 00 % 1. diploma in computer engineering from maharashtra board with 78. 07 %
+
+ 2 .Question: What did he study ?
+Answers:
+bachelor of engineering
+university of mumbai
+diploma in computer engineering
+computer engineering from maharashtra board with 78. 07 % 1. ssc from maharashtra board with 78. 00 % certification 1. successfully completed diploma in software testing from seed mumbai. 1. hp - alm ( application lifecycle management
+
+ 3 .Question: When did he finish his education ?
+Answers:
+bachelor of engineering from university of mumbai with 60. 00 %
+1. bachelor of engineering from university of mumbai
+university of mumbai with 60. 00 % 1. diploma in computer engineering from maharashtra board with 78. 07 %
+diploma in software testing from seed info - tech ltd. 1. bachelor of engineering
+1. diploma in computer engineering from maharashtra board with 78. 07 % 1. ssc from maharashtra board with 78. 00 % certification
+c:\resume2\PriyamGupta[5_3].pdf , my score= 31 , qa score= 21 ['b.e']
+c:\resume2\Resume_Meghant Ambagde (India).doc , my score= 29 , qa score= 14 ['bachelor', 'bachelor of engineering']
+c:\resume2\rDotaswin_kumar@ymailDotcom.doc , my score= 28 , qa score= 17 ['bachelor', 'bachelor of engineering']
+c:\resume2\Anukul_updated_resume.pdf , my score= 24 , qa score= 14 ['bachelor']
+c:\resume2\BarkhaJain[5_6].pdf , my score= 19 , qa score= 10 ['bachelor', 'bachelor of engineering']
+c:\resume2\Mujaffarhusenresume.pdf , my score= 19 , qa score= 10 ['b.tech']
+c:\resume2\AbhishekNagarkar_Python Test_5_LNT_OTP_pune.docx , my score= 18 , qa score= 11 ['bachelor', 'master']
+c:\resume2\Maltesh Doddamani.pdf , my score= 16 , qa score= 2 ['b.e']
+c:\resume2\sangramd45@gmailDotcom.pdf , my score= 15 , qa score= 8 ['bachelor', 'bachelor of engineering', 'ssc']
+c:\resume2\RitaUpadhyay5_6.docx , my score= 15 , qa score= 7 ['no degree']
+c:\resume2\Sagar Patra_Resume.pdf , my score= 15 , qa score= 5 ['bachelor']
+c:\resume2\VishalShelar_PythonRobot_LTI_7yrs_mumbaiOTP.DOCX , my score= 12 , qa score= 1 ['bachelor', 'bachelor of engineering', 'bachelor', 'bachelor of engineering', 'ssc']
