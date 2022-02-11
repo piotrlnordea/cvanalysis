@@ -39,7 +39,7 @@ for root, directories, filenames in os.walk('.'):  #linux
         
         
 summary2="allfiles.sum"    
-ff = open(summary2,'w+.',encoding="utf-8") 
+ff = open(summary2,'w+',encoding="utf-8") 
     
            
 #resumes=['c:\\resume1\\cv7.pdf']       
